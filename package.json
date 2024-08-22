@@ -1,6 +1,6 @@
 {
-  "name": "saml",
-  "version": "3.0.0",
+  "name": "@bubblegroup/saml",
+  "version": "3.0.0-beta.0",
   "engines": {
     "node": ">=12"
   },
